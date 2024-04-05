@@ -51,8 +51,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/DojokasiV2/DojokasiV2/output/snake.svg" alt="Snake animation" />
-
 ###
 ###
 
