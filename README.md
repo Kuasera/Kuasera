@@ -1,5 +1,5 @@
 ```css
-..............                                     dojokasi@sanane 
+..............                                     dojokasi@ngger 
             ..,;:ccc,.                             --------------- 
           ......''';lxO.                           OS: Kali GNU/Linux Rolling x86_64 
 .....''''..........,:ld;                           Alias: Dojokasi
