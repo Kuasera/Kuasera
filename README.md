@@ -1,18 +1,24 @@
 ```css
-[moli@archy ~]$ fetch
+..............                                     dojokasi@sanane 
+            ..,;:ccc,.                             --------------- 
+          ......''';lxO.                           OS: Kali GNU/Linux Rolling x86_64 
+.....''''..........,:ld;                           Alias: Dojokasi
+           .';;;:::;,,.x,                          From: Jupiter
+      ..'''.            0Xxoc:,.  ...              Website: kuasera.rocks
+  ....                ,ONkc;,;cokOdc',.            Terminal: qterminal
+ .                   OMo           ':ddo.          CPU: Intel i3-7020U (4) @ 2.300GHz
+                    dMc               :OO;         GPU: Intel HD Graphics 620
+                    0M.                 .:o.       Memory: 4492MiB / 11845MiB
+                    ;Wd                                                                                                                                   
+                     ;XO,                                                                                                                         
+                       ,d0Odlc;,..                                                                                     
+                           ..',;:cdOOd::,.                                                                                       
+                                    .:d;.':;.                                                                                                     
+                                       'd,  .'                                                                                         
+                                         ;l   ..                                                                                    
+                                          .o                                                                                              
+                                            c                                                                                             
+                                            .'                                                                                                                        
+                                             .                                                                                                                        
+                                                                           
 
-                    -@                    moli@archy
-                   .##@                   -----------------
-                  .####@                  Username: i.usearchbtw
-                  @#####@                 Alias: moli
-                . *######@                From: Saturn
-               .##@o@#####@               Website: moli.lat
-              /############@              Instagram: i.usearchbtw
-             /##############@             WM: Hyprland
-            @######@**%######@            Terminal: kitty
-           @######`     %#####o           CPU: Intel i5-12400F @ 4.000GHz
-          @######@       ######%          GPU: NVIDIA GeForce RTX 3060 
-        -@#######h       ######@.`        Memory: 2457MiB / 32768MiB
-       /#####h**``       `**%@####@       
-      @H@*`                    `*%#@    
-     *`                            `*  
