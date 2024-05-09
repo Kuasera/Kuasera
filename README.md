@@ -57,8 +57,8 @@
 ```cpp
 #include <smallBrain.hpp>
 //g++ tells me that it could not find "bigBrain.hpp"
-#include <examCalendar.hpp>
-//automatically updated list of exams
+#include <WorkCalendar.hpp>
+//automatically updated list of works
 #include <projects.hpp>
 //automatically updated list of projects
 //#include <luck.hpp>
@@ -66,14 +66,14 @@
 
 int32_t main(){
   while(brain.alive){ 
-    while(exams.empty() && brain.work){
+    while(works.empty() && brain.work){
       brain.think(projects[rand() % projects.size()]); 
     }
-    while(!exams.empty() && brain.work){ //most of the time
-      brain.think(exams[0]); //think the closest exam
+    while(!works.empty() && brain.work){
+      brain.think(works[0]);
     }
     //TODO: FIND ANOTHER THING TO DO
    }
-  return 0; //end the loop
+  return 0;
 }
 ```
