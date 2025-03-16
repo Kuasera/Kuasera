@@ -1,5 +1,3 @@
-# 🚀 Welcome to My GitHub Profile!
-
 <br clear="both">
 
 <img align="right" height="150" src="https://media1.tenor.com/m/DW7_R8EkhcgAAAAd/goat-creepy-scary-creepy-goat.gif" />
