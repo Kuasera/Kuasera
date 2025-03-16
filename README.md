@@ -3,10 +3,10 @@
 ###
 
 <br clear="both">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 <img align="right" height="150" src="https://media1.tenor.com/m/DW7_R8EkhcgAAAAd/goat-creepy-scary-creepy-goat.gif"  />
 
 ###
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
